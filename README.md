@@ -1,5 +1,5 @@
 ---
-page_type: samples
+page_type: sample
 languages:
   - python
 products:
